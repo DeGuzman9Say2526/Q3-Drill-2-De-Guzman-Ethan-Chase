@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+.container{
+    background-color: rgb(211, 211, 211);
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
